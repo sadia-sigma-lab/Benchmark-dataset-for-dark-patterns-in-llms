@@ -108,12 +108,13 @@ You are free to use, modify, and redistribute the dataset **with appropriate att
 
 ## 📖 Citation
 
-If you use this benchmark, please cite:
+If you use this dataset, or found our framework helpful, please cite:
 
 ```bibtex
+
 @article{darkpatternsllm2025,
   title={DarkPatterns-LLM: A Multi-Layer Benchmark for Detecting Manipulative and Harmful AI Behavior},
   author={Asif, Sadia and Rosales Laguan, Israel Antonio and Khan, Haris and Asif, Shumaila and Asif, Muneeb},
-  journal={arXiv preprint arXiv:7113996},
+  journal={arXiv preprint arXiv:2512.22470},
   year={2025}
 }
