@@ -9,7 +9,7 @@ The dataset accompanies the paper:
 > Sadia Asif, Israel Antonio Rosales Laguan, Haris Khan, Shumaila Asif, Muneeb Asif  
 > arXiv preprint, 2025
 
-🔗 **Paper (arXiv)**: https://arxiv.org/abs/7113996  
+🔗 **Paper (arXiv)**: https://arxiv.org/abs/2512.22470  
 🌐 **Project Website**: https://sadia-sigma-lab.github.io/darkpatterns-llm/
 
 ---
